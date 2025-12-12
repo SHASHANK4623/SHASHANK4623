@@ -1,5 +1,10 @@
 # 💫 About Me:
-🚀 Aspiring SDE 1 looking for exciting opportunities.<br>🧠 Strong in Data Structures and Algorithms.<br>🛠️ Currently building a Searching and Sorting Visualization project using Python.<br>✍️ Love writing clean and efficient code.<br>📚 Always learning and growing in backend development and DSA.<br>🤝 Open to collaboration and new challenges.<br>
+🚀 Aspiring Data Scientist and Software Development Engineer seeking exciting opportunities.<br>
+🧠 Strong foundation in Data Structures and Algorithms.<br>
+🛠️ Currently building a searching and sorting visualization project using Python.<br>
+✍️ Passionate about writing clean and efficient code.<br>
+📚 Continuously learning and growing in backend development and DSA.<br>
+🤝 Open to collaboration and new challenges.<br>
 
 
 ## 🌐 Socials:
