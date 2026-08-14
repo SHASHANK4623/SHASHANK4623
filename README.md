@@ -1,11 +1,11 @@
 # 💫 About Me
 
-🚀 Aspiring Data Scientist and Software Development Engineer seeking exciting opportunities.  
-🧠 Strong foundation in Data Structures and Algorithms.  
-🛠️ Currently building a Searching and Sorting Visualization project using Python.  
-✍️ Passionate about writing clean and efficient code.  
-📚 Continuously learning and growing in Backend Development and DSA.  
-🤝 Open to collaboration and new challenges.
+- 🚀 Aspiring Data Scientist and Software Development Engineer seeking exciting opportunities.
+- 🧠 Strong foundation in Data Structures and Algorithms.
+- 🛠️ Currently building a Searching and Sorting Visualization project using Python.
+- ✍️ Passionate about writing clean and efficient code.
+- 📚 Continuously learning and growing in Backend Development and DSA.
+- 🤝 Open to collaboration and new challenges.
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 🗄️ Databases
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
@@ -70,6 +70,7 @@
     <img
       alt="GitHub Contribution Snake Animation"
       src="https://raw.githubusercontent.com/SHASHANK4623/SHASHANK4623/output/github-contribution-grid-snake.svg"
+      width="100%"
     />
   </picture>
 </p>
@@ -80,21 +81,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SHASHANK4623&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHASHANK4623&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Shashank's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SHASHANK4623&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=SHASHANK4623&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHANK4623&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHASHANK4623&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -114,9 +115,7 @@
 
 <p align="center">
   <img
-    src="https://visitcount.itsvg.in/api?id=SHASHANK4623&icon=0&color=0"
+    src="https://komarev.com/ghpvc/?username=SHASHANK4623&label=Profile%20Views&color=0e75b6&style=flat-square"
     alt="Profile Views"
   />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
