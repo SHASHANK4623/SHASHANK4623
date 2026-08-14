@@ -77,29 +77,34 @@
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHASHANK4623&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Shashank's GitHub Stats"
-  />
-</p>
+# 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SHASHANK4623&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+      <img
+        src="https://streak-stats.demolab.com?user=SHASHANK4623&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHASHANK4623&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+  <p align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHASHANK4623&theme=tokyonight"
+        alt="Shashank's GitHub Stats"
+      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHASHANK4623&theme=tokyonight"
+        alt="Top Languages"
+      />
+    </p>
+
+  <p align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHASHANK4623&theme=tokyonight"
+        alt="Profile Details"
+      />
+    </p>
+
+  <p align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHASHANK4623&theme=react-dark&line=38bdf8&point=ffffff&area=true&hide_border=true"width="100%" alt="GitHub Contribution Graph"/>
+    </p>
+
 
 ---
 
@@ -120,6 +125,3 @@
     alt="Profile Views"
   />
 </p>
-Sources:
-    ▸ github.com · https://github.com/SHASHANK4623
-    ▸ github.com · https://github.com/SHASHANK4623
