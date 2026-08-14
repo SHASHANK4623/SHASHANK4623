@@ -80,19 +80,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SHASHANK4623&theme=dark&hide_border=true&include_all_commits=false&count_private=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=SHASHANK4623&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Shashank's GitHub Stats"
   />
-  <br/>
-  
+</p>
+
+<p align="center">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=SHASHANK4623&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SHASHANK4623&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-  <br/>
-  
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHANK4623&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHANK4623&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
